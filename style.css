@@ -1,0 +1,14 @@
+body {
+    font-size: 20px;
+    min-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.todoList {
+    display: inline-block
+}
+
+li {
+    text-align: left;
+}
